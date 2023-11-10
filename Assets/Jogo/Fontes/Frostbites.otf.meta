@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 942a48aa430589d46b84a869cde3d0dd
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 150
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Frostbites
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 3835845406c98a848a0175ff9d05a7c4, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
